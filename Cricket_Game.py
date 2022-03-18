@@ -1,4 +1,3 @@
-# Final Practical Project for Computer Science...
 # Cricket Game...
 
 
@@ -252,6 +251,4 @@ while True:
 time.sleep(3)
 clear()
 
-# Name = Md.Aryan Rehman
-# Roll Number = 04
-# Class = 11th Science
+# ARYAN
